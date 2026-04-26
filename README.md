@@ -59,7 +59,8 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Project
 
 ```
-python src/predict.py
+python src/sign.ipynb
+
 ```
 
 👉 Make sure your webcam is enabled.
