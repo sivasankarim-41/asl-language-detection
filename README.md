@@ -46,7 +46,7 @@ asl-language-detection/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/asl-language-detection.git
+git clone https://github.com/sivasankarim-41/asl-language-detection.git
 cd asl-language-detection
 ```
 
